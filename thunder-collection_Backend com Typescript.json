@@ -1,0 +1,52 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Backend com Typescript",
+    "collectionId": "fa079247-4cd7-4402-a83f-38c3dbc76245",
+    "dateExported": "2024-11-09T00:33:49.785Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "c113196c-166f-4cfc-baf9-c70d06086217",
+            "colId": "fa079247-4cd7-4402-a83f-38c3dbc76245",
+            "containerId": "",
+            "name": "Post",
+            "url": "http://localhost:3000",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-11-08T23:50:57.580Z",
+            "modified": "2024-11-09T00:03:32.356Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"Matheus\",\n  \"idade\": \"17\",\n  \"email\": \"teste@escoladnc.com.br\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "cb979fcc-ec9a-402e-9a63-27e2f1e9d1e9",
+            "colId": "fa079247-4cd7-4402-a83f-38c3dbc76245",
+            "containerId": "",
+            "name": "Get",
+            "url": "http://localhost:3000?nome=Matheus&idade=10",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-11-09T00:05:37.356Z",
+            "modified": "2024-11-09T00:21:20.974Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "nome",
+                    "value": "Matheus",
+                    "isPath": false
+                },
+                {
+                    "name": "idade",
+                    "value": "10",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "9_nCaxcW6uKvMZJeXI4UCQGL1FFDfE6AmqT1Ioi4VzaJCCQrUGYkLVkikD0HdKn5qyibTOoe8ZvMOFP_qwZgkQ"
+}
