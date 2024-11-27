@@ -11,7 +11,7 @@ Este é um projeto básico de backend em TypeScript, com rotas `GET` e `POST`, d
 ## Funcionalidades
 
 - **Rota GET** - Retorna uma mensagem de boas-vindas.
-- **Rota POST** - Recebe e retorna dados enviados pelo corpo da requisição.
+- **Rota POST** - Recebe e retorna dados enviados pelo corpo da requisição. 
 
 ## Estrutura do Projeto
 
